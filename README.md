@@ -3,6 +3,8 @@
 > **Smart Campus Resource Optimization Platform**
 > Digital Twin + Attendance Intelligence + One-Click Autopilot + IoT Sensor Fusion
 
+**Local Development URL:** [http://localhost:5173/](http://localhost:5173/)
+
 **Stack:** React + TailwindCSS · FastAPI (Python) · scikit-learn · PostgreSQL · JWT Auth · Leaflet.js · MQTT (IoT)
 
 **Colors:** Navy `#1a1f3a` · Orange `#e85d26` · Green `#4adf9a` · Surface `#ffffff` · Page `#f0f2f8`
