@@ -1,0 +1,1772 @@
+[
+  {
+    "id": 1,
+    "room_id": 1,
+    "course_code": "EC301",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 13
+  },
+  {
+    "id": 2,
+    "room_id": 1,
+    "course_code": "MA201",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 15
+  },
+  {
+    "id": 3,
+    "room_id": 1,
+    "course_code": "CS401",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 11
+  },
+  {
+    "id": 4,
+    "room_id": 2,
+    "course_code": "EC401",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 32
+  },
+  {
+    "id": 5,
+    "room_id": 2,
+    "course_code": "CS502",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 34
+  },
+  {
+    "id": 6,
+    "room_id": 3,
+    "course_code": "CS302",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 36
+  },
+  {
+    "id": 7,
+    "room_id": 3,
+    "course_code": "CS302",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 45
+  },
+  {
+    "id": 8,
+    "room_id": 3,
+    "course_code": "CS302",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 73
+  },
+  {
+    "id": 9,
+    "room_id": 4,
+    "course_code": "MA201",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 20
+  },
+  {
+    "id": 10,
+    "room_id": 5,
+    "course_code": "ME201",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 47
+  },
+  {
+    "id": 11,
+    "room_id": 6,
+    "course_code": "EC401",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 58
+  },
+  {
+    "id": 12,
+    "room_id": 6,
+    "course_code": "EC301",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 31
+  },
+  {
+    "id": 13,
+    "room_id": 6,
+    "course_code": "CS502",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 66
+  },
+  {
+    "id": 14,
+    "room_id": 7,
+    "course_code": "MA201",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 39
+  },
+  {
+    "id": 15,
+    "room_id": 7,
+    "course_code": "EC301",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 40
+  },
+  {
+    "id": 16,
+    "room_id": 8,
+    "course_code": "EC401",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 29
+  },
+  {
+    "id": 17,
+    "room_id": 8,
+    "course_code": "CS401",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 28
+  },
+  {
+    "id": 18,
+    "room_id": 8,
+    "course_code": "EC401",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 49
+  },
+  {
+    "id": 19,
+    "room_id": 9,
+    "course_code": "ME301",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 30
+  },
+  {
+    "id": 20,
+    "room_id": 9,
+    "course_code": "ME301",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 51
+  },
+  {
+    "id": 21,
+    "room_id": 9,
+    "course_code": "MA201",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 45
+  },
+  {
+    "id": 22,
+    "room_id": 9,
+    "course_code": "EC401",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 38
+  },
+  {
+    "id": 23,
+    "room_id": 10,
+    "course_code": "CS401",
+    "faculty_id": 17,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 37
+  },
+  {
+    "id": 24,
+    "room_id": 10,
+    "course_code": "CS401",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 26
+  },
+  {
+    "id": 25,
+    "room_id": 10,
+    "course_code": "ME301",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 57
+  },
+  {
+    "id": 26,
+    "room_id": 11,
+    "course_code": "ME301",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 75
+  },
+  {
+    "id": 27,
+    "room_id": 11,
+    "course_code": "CS401",
+    "faculty_id": 7,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 49
+  },
+  {
+    "id": 28,
+    "room_id": 11,
+    "course_code": "CS502",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 65
+  },
+  {
+    "id": 29,
+    "room_id": 12,
+    "course_code": "CS502",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 37
+  },
+  {
+    "id": 30,
+    "room_id": 12,
+    "course_code": "EC401",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 57
+  },
+  {
+    "id": 31,
+    "room_id": 12,
+    "course_code": "MA201",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 30
+  },
+  {
+    "id": 32,
+    "room_id": 12,
+    "course_code": "CS502",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 36
+  },
+  {
+    "id": 33,
+    "room_id": 13,
+    "course_code": "MA201",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 90
+  },
+  {
+    "id": 34,
+    "room_id": 13,
+    "course_code": "ME201",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 40
+  },
+  {
+    "id": 35,
+    "room_id": 13,
+    "course_code": "CS502",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 58
+  },
+  {
+    "id": 36,
+    "room_id": 14,
+    "course_code": "ME201",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 30
+  },
+  {
+    "id": 37,
+    "room_id": 14,
+    "course_code": "EC401",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 28
+  },
+  {
+    "id": 38,
+    "room_id": 14,
+    "course_code": "CS502",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 24
+  },
+  {
+    "id": 39,
+    "room_id": 15,
+    "course_code": "MA201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 25
+  },
+  {
+    "id": 40,
+    "room_id": 15,
+    "course_code": "MA201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 23
+  },
+  {
+    "id": 41,
+    "room_id": 15,
+    "course_code": "CS401",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 17
+  },
+  {
+    "id": 42,
+    "room_id": 15,
+    "course_code": "EC301",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 13
+  },
+  {
+    "id": 43,
+    "room_id": 15,
+    "course_code": "ME201",
+    "faculty_id": 7,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 11
+  },
+  {
+    "id": 44,
+    "room_id": 16,
+    "course_code": "EC401",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 51
+  },
+  {
+    "id": 45,
+    "room_id": 16,
+    "course_code": "MA201",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 46
+  },
+  {
+    "id": 46,
+    "room_id": 16,
+    "course_code": "CS302",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 46
+  },
+  {
+    "id": 47,
+    "room_id": 16,
+    "course_code": "EC401",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 70
+  },
+  {
+    "id": 48,
+    "room_id": 17,
+    "course_code": "ME301",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 35
+  },
+  {
+    "id": 49,
+    "room_id": 17,
+    "course_code": "CS401",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 27
+  },
+  {
+    "id": 50,
+    "room_id": 18,
+    "course_code": "EC401",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 28
+  },
+  {
+    "id": 51,
+    "room_id": 18,
+    "course_code": "ME301",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 54
+  },
+  {
+    "id": 52,
+    "room_id": 19,
+    "course_code": "ME301",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 39
+  },
+  {
+    "id": 53,
+    "room_id": 19,
+    "course_code": "CS302",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 24
+  },
+  {
+    "id": 54,
+    "room_id": 19,
+    "course_code": "CS502",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 22
+  },
+  {
+    "id": 55,
+    "room_id": 20,
+    "course_code": "ME301",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 37
+  },
+  {
+    "id": 56,
+    "room_id": 20,
+    "course_code": "CS302",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 55
+  },
+  {
+    "id": 57,
+    "room_id": 21,
+    "course_code": "CS302",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 16
+  },
+  {
+    "id": 58,
+    "room_id": 21,
+    "course_code": "CS502",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 30
+  },
+  {
+    "id": 59,
+    "room_id": 22,
+    "course_code": "CS401",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 32
+  },
+  {
+    "id": 60,
+    "room_id": 23,
+    "course_code": "CS401",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 55
+  },
+  {
+    "id": 61,
+    "room_id": 23,
+    "course_code": "CS401",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 42
+  },
+  {
+    "id": 62,
+    "room_id": 23,
+    "course_code": "MA201",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 55
+  },
+  {
+    "id": 63,
+    "room_id": 24,
+    "course_code": "CS401",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 73
+  },
+  {
+    "id": 64,
+    "room_id": 24,
+    "course_code": "CS302",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 56
+  },
+  {
+    "id": 65,
+    "room_id": 24,
+    "course_code": "EC401",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 54
+  },
+  {
+    "id": 66,
+    "room_id": 24,
+    "course_code": "ME301",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 28
+  },
+  {
+    "id": 67,
+    "room_id": 25,
+    "course_code": "EC401",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 46
+  },
+  {
+    "id": 68,
+    "room_id": 25,
+    "course_code": "CS401",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 88
+  },
+  {
+    "id": 69,
+    "room_id": 25,
+    "course_code": "CS401",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 58
+  },
+  {
+    "id": 70,
+    "room_id": 25,
+    "course_code": "CS502",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 86
+  },
+  {
+    "id": 71,
+    "room_id": 26,
+    "course_code": "ME301",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 30
+  },
+  {
+    "id": 72,
+    "room_id": 26,
+    "course_code": "EC401",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 89
+  },
+  {
+    "id": 73,
+    "room_id": 26,
+    "course_code": "CS401",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 62
+  },
+  {
+    "id": 74,
+    "room_id": 27,
+    "course_code": "CS302",
+    "faculty_id": 17,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 51
+  },
+  {
+    "id": 75,
+    "room_id": 27,
+    "course_code": "ME301",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 57
+  },
+  {
+    "id": 76,
+    "room_id": 27,
+    "course_code": "CS302",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 64
+  },
+  {
+    "id": 77,
+    "room_id": 28,
+    "course_code": "MA201",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 33
+  },
+  {
+    "id": 78,
+    "room_id": 28,
+    "course_code": "CS502",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 28
+  },
+  {
+    "id": 79,
+    "room_id": 28,
+    "course_code": "EC401",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 34
+  },
+  {
+    "id": 80,
+    "room_id": 28,
+    "course_code": "CS401",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 19
+  },
+  {
+    "id": 81,
+    "room_id": 28,
+    "course_code": "MA201",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 15
+  },
+  {
+    "id": 82,
+    "room_id": 29,
+    "course_code": "CS502",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 68
+  },
+  {
+    "id": 83,
+    "room_id": 29,
+    "course_code": "CS401",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 75
+  },
+  {
+    "id": 84,
+    "room_id": 30,
+    "course_code": "MA201",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 49
+  },
+  {
+    "id": 85,
+    "room_id": 30,
+    "course_code": "ME201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 32
+  },
+  {
+    "id": 86,
+    "room_id": 30,
+    "course_code": "ME201",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 40
+  },
+  {
+    "id": 87,
+    "room_id": 31,
+    "course_code": "CS502",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 23
+  },
+  {
+    "id": 88,
+    "room_id": 31,
+    "course_code": "CS302",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 24
+  },
+  {
+    "id": 89,
+    "room_id": 31,
+    "course_code": "EC301",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 24
+  },
+  {
+    "id": 90,
+    "room_id": 31,
+    "course_code": "CS302",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 13
+  },
+  {
+    "id": 91,
+    "room_id": 32,
+    "course_code": "MA201",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 53
+  },
+  {
+    "id": 92,
+    "room_id": 33,
+    "course_code": "ME301",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 50
+  },
+  {
+    "id": 93,
+    "room_id": 33,
+    "course_code": "ME301",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 58
+  },
+  {
+    "id": 94,
+    "room_id": 34,
+    "course_code": "MA201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 37
+  },
+  {
+    "id": 95,
+    "room_id": 34,
+    "course_code": "ME201",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 36
+  },
+  {
+    "id": 96,
+    "room_id": 34,
+    "course_code": "ME301",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 87
+  },
+  {
+    "id": 97,
+    "room_id": 34,
+    "course_code": "MA201",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 63
+  },
+  {
+    "id": 98,
+    "room_id": 35,
+    "course_code": "MA201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 58
+  },
+  {
+    "id": 99,
+    "room_id": 35,
+    "course_code": "MA201",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 25
+  },
+  {
+    "id": 100,
+    "room_id": 35,
+    "course_code": "ME201",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 27
+  },
+  {
+    "id": 101,
+    "room_id": 35,
+    "course_code": "ME201",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 56
+  },
+  {
+    "id": 102,
+    "room_id": 36,
+    "course_code": "CS401",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 25
+  },
+  {
+    "id": 103,
+    "room_id": 36,
+    "course_code": "CS401",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 35
+  },
+  {
+    "id": 104,
+    "room_id": 36,
+    "course_code": "CS502",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 23
+  },
+  {
+    "id": 105,
+    "room_id": 36,
+    "course_code": "ME301",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 56
+  },
+  {
+    "id": 106,
+    "room_id": 37,
+    "course_code": "EC301",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 29
+  },
+  {
+    "id": 107,
+    "room_id": 37,
+    "course_code": "CS302",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 87
+  },
+  {
+    "id": 108,
+    "room_id": 37,
+    "course_code": "CS502",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 50
+  },
+  {
+    "id": 109,
+    "room_id": 38,
+    "course_code": "CS502",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 48
+  },
+  {
+    "id": 110,
+    "room_id": 38,
+    "course_code": "EC401",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 60
+  },
+  {
+    "id": 111,
+    "room_id": 38,
+    "course_code": "ME201",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 44
+  },
+  {
+    "id": 112,
+    "room_id": 39,
+    "course_code": "ME301",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 31
+  },
+  {
+    "id": 113,
+    "room_id": 39,
+    "course_code": "EC401",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 68
+  },
+  {
+    "id": 114,
+    "room_id": 39,
+    "course_code": "ME301",
+    "faculty_id": 17,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 27
+  },
+  {
+    "id": 115,
+    "room_id": 39,
+    "course_code": "ME301",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 51
+  },
+  {
+    "id": 116,
+    "room_id": 40,
+    "course_code": "CS502",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 33
+  },
+  {
+    "id": 117,
+    "room_id": 40,
+    "course_code": "ME201",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 83
+  },
+  {
+    "id": 118,
+    "room_id": 40,
+    "course_code": "CS302",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 57
+  },
+  {
+    "id": 119,
+    "room_id": 41,
+    "course_code": "CS302",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 25
+  },
+  {
+    "id": 120,
+    "room_id": 41,
+    "course_code": "EC301",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 15
+  },
+  {
+    "id": 121,
+    "room_id": 41,
+    "course_code": "CS401",
+    "faculty_id": 17,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 34
+  },
+  {
+    "id": 122,
+    "room_id": 41,
+    "course_code": "CS502",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 19
+  },
+  {
+    "id": 123,
+    "room_id": 42,
+    "course_code": "ME201",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 34
+  },
+  {
+    "id": 124,
+    "room_id": 42,
+    "course_code": "ME201",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 39
+  },
+  {
+    "id": 125,
+    "room_id": 43,
+    "course_code": "CS401",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 21
+  },
+  {
+    "id": 126,
+    "room_id": 43,
+    "course_code": "CS502",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 26
+  },
+  {
+    "id": 127,
+    "room_id": 43,
+    "course_code": "EC401",
+    "faculty_id": 11,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 29
+  },
+  {
+    "id": 128,
+    "room_id": 44,
+    "course_code": "EC401",
+    "faculty_id": 7,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 33
+  },
+  {
+    "id": 129,
+    "room_id": 44,
+    "course_code": "MA201",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 20
+  },
+  {
+    "id": 130,
+    "room_id": 44,
+    "course_code": "CS502",
+    "faculty_id": 13,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 42
+  },
+  {
+    "id": 131,
+    "room_id": 45,
+    "course_code": "CS302",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 54
+  },
+  {
+    "id": 132,
+    "room_id": 45,
+    "course_code": "EC301",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 28
+  },
+  {
+    "id": 133,
+    "room_id": 46,
+    "course_code": "CS502",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 27
+  },
+  {
+    "id": 134,
+    "room_id": 46,
+    "course_code": "ME201",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 48
+  },
+  {
+    "id": 135,
+    "room_id": 46,
+    "course_code": "ME301",
+    "faculty_id": 3,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 39
+  },
+  {
+    "id": 136,
+    "room_id": 47,
+    "course_code": "EC401",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 31
+  },
+  {
+    "id": 137,
+    "room_id": 47,
+    "course_code": "CS401",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 38
+  },
+  {
+    "id": 138,
+    "room_id": 47,
+    "course_code": "EC301",
+    "faculty_id": 4,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 83
+  },
+  {
+    "id": 139,
+    "room_id": 48,
+    "course_code": "CS401",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 10
+  },
+  {
+    "id": 140,
+    "room_id": 48,
+    "course_code": "CS302",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 20
+  },
+  {
+    "id": 141,
+    "room_id": 48,
+    "course_code": "ME201",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 25
+  },
+  {
+    "id": 142,
+    "room_id": 48,
+    "course_code": "ME201",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 14
+  },
+  {
+    "id": 143,
+    "room_id": 48,
+    "course_code": "ME301",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 30
+  },
+  {
+    "id": 144,
+    "room_id": 49,
+    "course_code": "ME201",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 23
+  },
+  {
+    "id": 145,
+    "room_id": 49,
+    "course_code": "CS302",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 18
+  },
+  {
+    "id": 146,
+    "room_id": 49,
+    "course_code": "CS502",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 27
+  },
+  {
+    "id": 147,
+    "room_id": 50,
+    "course_code": "ME301",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 51
+  },
+  {
+    "id": 148,
+    "room_id": 50,
+    "course_code": "ME301",
+    "faculty_id": 16,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 28
+  },
+  {
+    "id": 149,
+    "room_id": 50,
+    "course_code": "EC401",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 40
+  },
+  {
+    "id": 150,
+    "room_id": 51,
+    "course_code": "ME301",
+    "faculty_id": 9,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 28
+  },
+  {
+    "id": 151,
+    "room_id": 51,
+    "course_code": "CS302",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 90
+  },
+  {
+    "id": 152,
+    "room_id": 52,
+    "course_code": "EC401",
+    "faculty_id": 8,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 32
+  },
+  {
+    "id": 153,
+    "room_id": 52,
+    "course_code": "CS401",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 32
+  },
+  {
+    "id": 154,
+    "room_id": 52,
+    "course_code": "CS302",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 37
+  },
+  {
+    "id": 155,
+    "room_id": 52,
+    "course_code": "EC401",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 14
+  },
+  {
+    "id": 156,
+    "room_id": 53,
+    "course_code": "ME301",
+    "faculty_id": 6,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 34
+  },
+  {
+    "id": 157,
+    "room_id": 53,
+    "course_code": "EC401",
+    "faculty_id": 17,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 54
+  },
+  {
+    "id": 158,
+    "room_id": 53,
+    "course_code": "CS502",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 69
+  },
+  {
+    "id": 159,
+    "room_id": 54,
+    "course_code": "EC301",
+    "faculty_id": 5,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 16
+  },
+  {
+    "id": 160,
+    "room_id": 55,
+    "course_code": "ME301",
+    "faculty_id": 1,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 20
+  },
+  {
+    "id": 161,
+    "room_id": 55,
+    "course_code": "CS502",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 33
+  },
+  {
+    "id": 162,
+    "room_id": 56,
+    "course_code": "ME301",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 15
+  },
+  {
+    "id": 163,
+    "room_id": 56,
+    "course_code": "EC401",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 19
+  },
+  {
+    "id": 164,
+    "room_id": 57,
+    "course_code": "CS401",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 15
+  },
+  {
+    "id": 165,
+    "room_id": 57,
+    "course_code": "CS302",
+    "faculty_id": 10,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 27
+  },
+  {
+    "id": 166,
+    "room_id": 57,
+    "course_code": "MA201",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 16
+  },
+  {
+    "id": 167,
+    "room_id": 57,
+    "course_code": "EC401",
+    "faculty_id": 18,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 25
+  },
+  {
+    "id": 168,
+    "room_id": 58,
+    "course_code": "ME201",
+    "faculty_id": 14,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 29
+  },
+  {
+    "id": 169,
+    "room_id": 58,
+    "course_code": "CS502",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 22
+  },
+  {
+    "id": 170,
+    "room_id": 58,
+    "course_code": "EC401",
+    "faculty_id": 7,
+    "day_of_week": 2,
+    "start_time": "14:00",
+    "end_time": "14:50",
+    "expected_count": 23
+  },
+  {
+    "id": 171,
+    "room_id": 58,
+    "course_code": "MA201",
+    "faculty_id": 12,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 12
+  },
+  {
+    "id": 172,
+    "room_id": 59,
+    "course_code": "EC401",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 21
+  },
+  {
+    "id": 173,
+    "room_id": 59,
+    "course_code": "EC301",
+    "faculty_id": 15,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 11
+  },
+  {
+    "id": 174,
+    "room_id": 60,
+    "course_code": "CS302",
+    "faculty_id": 2,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "09:50",
+    "expected_count": 72
+  },
+  {
+    "id": 175,
+    "room_id": 60,
+    "course_code": "ME201",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "10:00",
+    "end_time": "10:50",
+    "expected_count": 35
+  },
+  {
+    "id": 176,
+    "room_id": 60,
+    "course_code": "MA201",
+    "faculty_id": 19,
+    "day_of_week": 2,
+    "start_time": "11:00",
+    "end_time": "11:50",
+    "expected_count": 35
+  },
+  {
+    "id": 177,
+    "room_id": 60,
+    "course_code": "ME201",
+    "faculty_id": 20,
+    "day_of_week": 2,
+    "start_time": "15:00",
+    "end_time": "15:50",
+    "expected_count": 22
+  }
+]

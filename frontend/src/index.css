@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #f0f2f8;
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #1a1f3a;
+}
+
+/* Pulse for "you are here" dot */
+@keyframes pulse-orange {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(232, 93, 38, 0.7); }
+  50%      { box-shadow: 0 0 0 12px rgba(232, 93, 38, 0); }
+}
+.pulse-dot {
+  animation: pulse-orange 1.6s infinite;
+}
+
+/* Pipeline step transitions */
+.pipeline-step {
+  transition: background 300ms ease, transform 300ms ease;
+}
+.pipeline-step.done {
+  background: #4adf9a;
+  transform: scale(1.05);
+}

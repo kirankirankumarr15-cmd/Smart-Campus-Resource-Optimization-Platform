@@ -1,0 +1,55 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: campus-autopilot-api
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://campus:autopilot@db:5432/campus_autopilot
+      MQTT_BROKER: mqtt
+      MQTT_PORT: 1883
+      JWT_SECRET: change-me-in-production
+      MOCK_MODE: "true"
+    depends_on:
+      - db
+      - mqtt
+    volumes:
+      - ./backend:/app
+      - ./mock:/mock
+
+  db:
+    image: postgres:15-alpine
+    container_name: campus-autopilot-db
+    environment:
+      POSTGRES_USER: campus
+      POSTGRES_PASSWORD: autopilot
+      POSTGRES_DB: campus_autopilot
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+  mqtt:
+    image: eclipse-mosquitto:2
+    container_name: campus-autopilot-mqtt
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mqtt/mosquitto.conf:/mosquitto/config/mosquitto.conf
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: campus-autopilot-frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - api
+
+volumes:
+  pg_data:

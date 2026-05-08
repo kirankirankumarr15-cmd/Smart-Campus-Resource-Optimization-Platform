@@ -1,0 +1,3242 @@
+[
+  {
+    "id": 1,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 616.2,
+    "unit": "lux",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 2,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 359.9,
+    "unit": "lux",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 3,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 637.8,
+    "unit": "lux",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 4,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 411.9,
+    "unit": "lux",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 5,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 327.7,
+    "unit": "lux",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 6,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 466.2,
+    "unit": "lux",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 7,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 240.3,
+    "unit": "lux",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 8,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 280.0,
+    "unit": "lux",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 9,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 308.3,
+    "unit": "lux",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 10,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 579.1,
+    "unit": "lux",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 11,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 601.8,
+    "unit": "lux",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 12,
+    "sensor_id": 1,
+    "room_id": 30,
+    "type": "light",
+    "value": 691.2,
+    "unit": "lux",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 13,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 276.3,
+    "unit": "W",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 14,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 332.7,
+    "unit": "W",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 15,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 44.1,
+    "unit": "W",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 16,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 182.8,
+    "unit": "W",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 17,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 277.3,
+    "unit": "W",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 18,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 282.3,
+    "unit": "W",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 19,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 218.8,
+    "unit": "W",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 20,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 242.8,
+    "unit": "W",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 21,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 27.7,
+    "unit": "W",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 22,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 142.3,
+    "unit": "W",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 23,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 226.2,
+    "unit": "W",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 24,
+    "sensor_id": 2,
+    "room_id": 11,
+    "type": "power",
+    "value": 283.5,
+    "unit": "W",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 25,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 470.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 26,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 610.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 27,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 696.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 28,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 887.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 29,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 979.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 30,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 1144.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 31,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 720.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 32,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 924.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 33,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 629.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 34,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 1170.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 35,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 446.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 36,
+    "sensor_id": 3,
+    "room_id": 37,
+    "type": "co2",
+    "value": 1018.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 37,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 561.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 38,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 925.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 39,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 1043.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 40,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 628.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 41,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 426.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 42,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 879.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 43,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 812.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 44,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 585.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 45,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 535.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 46,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 428.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 47,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 591.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 48,
+    "sensor_id": 4,
+    "room_id": 77,
+    "type": "co2",
+    "value": 400.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 49,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 719.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 50,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 935.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 51,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 724.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 52,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 560.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 53,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 412.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 54,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 962.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 55,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 1135.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 56,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 839.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 57,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 980.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 58,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 847.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 59,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 866.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 60,
+    "sensor_id": 5,
+    "room_id": 70,
+    "type": "co2",
+    "value": 678.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 61,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 24.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 62,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 23.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 63,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 18.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 64,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 20.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 65,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 25.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 66,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 25.8,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 67,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 25.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 68,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 22.8,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 69,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 19.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 70,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 25.2,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 71,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 21.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 72,
+    "sensor_id": 6,
+    "room_id": 53,
+    "type": "temp",
+    "value": 25.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 73,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 332.8,
+    "unit": "lux",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 74,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 412.7,
+    "unit": "lux",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 75,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 232.5,
+    "unit": "lux",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 76,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 304.7,
+    "unit": "lux",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 77,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 631.7,
+    "unit": "lux",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 78,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 561.2,
+    "unit": "lux",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 79,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 722.4,
+    "unit": "lux",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 80,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 696.5,
+    "unit": "lux",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 81,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 411.5,
+    "unit": "lux",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 82,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 243.4,
+    "unit": "lux",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 83,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 337.0,
+    "unit": "lux",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 84,
+    "sensor_id": 7,
+    "room_id": 33,
+    "type": "light",
+    "value": 641.5,
+    "unit": "lux",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 85,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 652.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 86,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 1164.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 87,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 813.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 88,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 407.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 89,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 1065.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 90,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 598.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 91,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 474.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 92,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 939.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 93,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 1056.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 94,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 460.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 95,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 1145.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 96,
+    "sensor_id": 8,
+    "room_id": 25,
+    "type": "co2",
+    "value": 781.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 97,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 20.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 98,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 28.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 99,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 31.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 100,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 20.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 101,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 28.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 102,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 21.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 103,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 21.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 104,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 21.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 105,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 21.2,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 106,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 29.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 107,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 29.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 108,
+    "sensor_id": 9,
+    "room_id": 1,
+    "type": "temp",
+    "value": 23.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 109,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 1.0,
+    "unit": "count",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 110,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.5,
+    "unit": "count",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 111,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.0,
+    "unit": "count",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 112,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 113,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 1.0,
+    "unit": "count",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 114,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.8,
+    "unit": "count",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 115,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.4,
+    "unit": "count",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 116,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.3,
+    "unit": "count",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 117,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 118,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 119,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.6,
+    "unit": "count",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 120,
+    "sensor_id": 10,
+    "room_id": 72,
+    "type": "pir",
+    "value": 0.3,
+    "unit": "count",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 121,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 624.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 122,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 577.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 123,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 861.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 124,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 443.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 125,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 1039.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 126,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 782.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 127,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 832.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 128,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 802.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 129,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 715.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 130,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 949.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 131,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 539.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 132,
+    "sensor_id": 11,
+    "room_id": 67,
+    "type": "co2",
+    "value": 1181.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 133,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 12.9,
+    "unit": "W",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 134,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 239.2,
+    "unit": "W",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 135,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 139.0,
+    "unit": "W",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 136,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 44.3,
+    "unit": "W",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 137,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 132.9,
+    "unit": "W",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 138,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 303.0,
+    "unit": "W",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 139,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 73.6,
+    "unit": "W",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 140,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 99.4,
+    "unit": "W",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 141,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 101.6,
+    "unit": "W",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 142,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 335.9,
+    "unit": "W",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 143,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 126.7,
+    "unit": "W",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 144,
+    "sensor_id": 12,
+    "room_id": 16,
+    "type": "power",
+    "value": 72.5,
+    "unit": "W",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 145,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 146,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.9,
+    "unit": "state",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 147,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 148,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 149,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 150,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 151,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 152,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 153,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 154,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 155,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 156,
+    "sensor_id": 13,
+    "room_id": 76,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 157,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 778.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 158,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 407.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 159,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 737.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 160,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 507.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 161,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 1114.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 162,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 904.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 163,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 827.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 164,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 652.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 165,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 789.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 166,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 600.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 167,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 1086.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 168,
+    "sensor_id": 14,
+    "room_id": 71,
+    "type": "co2",
+    "value": 438.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 169,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.8,
+    "unit": "count",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 170,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.5,
+    "unit": "count",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 171,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.6,
+    "unit": "count",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 172,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.4,
+    "unit": "count",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 173,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.3,
+    "unit": "count",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 174,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.4,
+    "unit": "count",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 175,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.6,
+    "unit": "count",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 176,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 177,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.3,
+    "unit": "count",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 178,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.0,
+    "unit": "count",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 179,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.1,
+    "unit": "count",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 180,
+    "sensor_id": 15,
+    "room_id": 49,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 181,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 536.8,
+    "unit": "lux",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 182,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 180.9,
+    "unit": "lux",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 183,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 635.2,
+    "unit": "lux",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 184,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 316.3,
+    "unit": "lux",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 185,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 554.9,
+    "unit": "lux",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 186,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 415.6,
+    "unit": "lux",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 187,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 602.4,
+    "unit": "lux",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 188,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 717.2,
+    "unit": "lux",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 189,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 335.8,
+    "unit": "lux",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 190,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 264.9,
+    "unit": "lux",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 191,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 523.8,
+    "unit": "lux",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 192,
+    "sensor_id": 16,
+    "room_id": 27,
+    "type": "light",
+    "value": 158.6,
+    "unit": "lux",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 193,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 737.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 194,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 889.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 195,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 723.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 196,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 1125.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 197,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 463.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 198,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 674.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 199,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 650.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 200,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 922.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 201,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 968.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 202,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 884.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 203,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 716.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 204,
+    "sensor_id": 17,
+    "room_id": 41,
+    "type": "co2",
+    "value": 1110.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 205,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 24.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 206,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 20.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 207,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 30.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 208,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 19.8,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 209,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 21.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 210,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 21.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 211,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 28.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 212,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 28.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 213,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 20.9,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 214,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 23.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 215,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 19.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 216,
+    "sensor_id": 18,
+    "room_id": 65,
+    "type": "temp",
+    "value": 31.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 217,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 218,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 219,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 220,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 221,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 222,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.7,
+    "unit": "state",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 223,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.9,
+    "unit": "state",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 224,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 225,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 226,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 227,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 228,
+    "sensor_id": 19,
+    "room_id": 24,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 229,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 1088.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 230,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 660.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 231,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 780.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 232,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 1180.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 233,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 832.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 234,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 617.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 235,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 755.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 236,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 1175.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 237,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 958.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 238,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 541.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 239,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 878.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 240,
+    "sensor_id": 20,
+    "room_id": 7,
+    "type": "co2",
+    "value": 904.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 241,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 227.5,
+    "unit": "W",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 242,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 191.5,
+    "unit": "W",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 243,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 319.0,
+    "unit": "W",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 244,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 173.8,
+    "unit": "W",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 245,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 87.2,
+    "unit": "W",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 246,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 40.4,
+    "unit": "W",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 247,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 114.7,
+    "unit": "W",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 248,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 150.1,
+    "unit": "W",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 249,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 62.9,
+    "unit": "W",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 250,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 13.6,
+    "unit": "W",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 251,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 187.9,
+    "unit": "W",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 252,
+    "sensor_id": 21,
+    "room_id": 10,
+    "type": "power",
+    "value": 267.8,
+    "unit": "W",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 253,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 406.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 254,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 1137.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 255,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 1157.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 256,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 781.7,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 257,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 407.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 258,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 744.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 259,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 634.3,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 260,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 585.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 261,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 405.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 262,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 698.9,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 263,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 729.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 264,
+    "sensor_id": 22,
+    "room_id": 28,
+    "type": "co2",
+    "value": 848.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 265,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 266,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 267,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 268,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 269,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 270,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.5,
+    "unit": "state",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 271,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 272,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 273,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.7,
+    "unit": "state",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 274,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 275,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.6,
+    "unit": "state",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 276,
+    "sensor_id": 23,
+    "room_id": 42,
+    "type": "door",
+    "value": 0.5,
+    "unit": "state",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 277,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 20.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 278,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 22.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 279,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 26.9,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 280,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 26.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 281,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 21.8,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 282,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 26.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 283,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 20.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 284,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 18.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 285,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 18.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 286,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 25.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 287,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 20.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 288,
+    "sensor_id": 24,
+    "room_id": 38,
+    "type": "temp",
+    "value": 19.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 289,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 18.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 290,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 19.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 291,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 18.2,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 292,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 21.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 293,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 23.9,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 294,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 29.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 295,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 25.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 296,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 23.2,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 297,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 27.8,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 298,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 18.4,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 299,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 19.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 300,
+    "sensor_id": 25,
+    "room_id": 17,
+    "type": "temp",
+    "value": 28.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 301,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 457.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 302,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 776.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 303,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 553.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 304,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 1073.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 305,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 1053.8,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 306,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 1062.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 307,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 497.6,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 308,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 1014.5,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 309,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 599.2,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 310,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 1017.0,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 311,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 754.4,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 312,
+    "sensor_id": 26,
+    "room_id": 56,
+    "type": "co2",
+    "value": 990.1,
+    "unit": "ppm",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 313,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.1,
+    "unit": "count",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 314,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.7,
+    "unit": "count",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 315,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.2,
+    "unit": "count",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 316,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.4,
+    "unit": "count",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 317,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 1.0,
+    "unit": "count",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 318,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.9,
+    "unit": "count",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 319,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.2,
+    "unit": "count",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 320,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.7,
+    "unit": "count",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 321,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.7,
+    "unit": "count",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 322,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.5,
+    "unit": "count",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 323,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.1,
+    "unit": "count",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 324,
+    "sensor_id": 27,
+    "room_id": 35,
+    "type": "pir",
+    "value": 0.5,
+    "unit": "count",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 325,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 30.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 326,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 21.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 327,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 19.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 328,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 26.9,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 329,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 22.5,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 330,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 20.3,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 331,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 21.9,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 332,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 19.7,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 333,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 29.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 334,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 18.1,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 335,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 18.6,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 336,
+    "sensor_id": 28,
+    "room_id": 59,
+    "type": "temp",
+    "value": 29.0,
+    "unit": "\u00b0C",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 337,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 338,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 339,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.5,
+    "unit": "state",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 340,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.7,
+    "unit": "state",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 341,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 342,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 1.0,
+    "unit": "state",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 343,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 344,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 345,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 346,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 347,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.5,
+    "unit": "state",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 348,
+    "sensor_id": 29,
+    "room_id": 78,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  },
+  {
+    "id": 349,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T04:55:19.309197Z"
+  },
+  {
+    "id": 350,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:00:19.309197Z"
+  },
+  {
+    "id": 351,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.8,
+    "unit": "state",
+    "ts": "2026-04-29T05:05:19.309197Z"
+  },
+  {
+    "id": 352,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:10:19.309197Z"
+  },
+  {
+    "id": 353,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.2,
+    "unit": "state",
+    "ts": "2026-04-29T05:15:19.309197Z"
+  },
+  {
+    "id": 354,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.7,
+    "unit": "state",
+    "ts": "2026-04-29T05:20:19.309197Z"
+  },
+  {
+    "id": 355,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:25:19.309197Z"
+  },
+  {
+    "id": 356,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.1,
+    "unit": "state",
+    "ts": "2026-04-29T05:30:19.309197Z"
+  },
+  {
+    "id": 357,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.9,
+    "unit": "state",
+    "ts": "2026-04-29T05:35:19.309197Z"
+  },
+  {
+    "id": 358,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.5,
+    "unit": "state",
+    "ts": "2026-04-29T05:40:19.309197Z"
+  },
+  {
+    "id": 359,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.4,
+    "unit": "state",
+    "ts": "2026-04-29T05:45:19.309197Z"
+  },
+  {
+    "id": 360,
+    "sensor_id": 30,
+    "room_id": 62,
+    "type": "door",
+    "value": 0.3,
+    "unit": "state",
+    "ts": "2026-04-29T05:50:19.309197Z"
+  }
+]
